@@ -1,3 +1,6 @@
+# List (for in)
+# //
+# If Statement
 
 # Variables
 # Maak drie variables aan. Een die de prijs van het gekozen product vasthoud, een die het betaalde bedrag vasthoud en de derde die het verschil tussen die twee variables vasthoud.
